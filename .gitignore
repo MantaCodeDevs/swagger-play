@@ -7,3 +7,5 @@
 /RUNNING_PID
 project/play-fork-run.sbt
 .sbtserver*
+project/target/
+project/project/target/
